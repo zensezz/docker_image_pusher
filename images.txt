@@ -3,4 +3,3 @@ nginx
 
 talebook/talebook
 
-douban-rs-api
